@@ -1,0 +1,18 @@
+1. Array List & Linked List 区别，底层实现，扩容
+2. 快排算法
+3. CompletableFuture 特效
+4. ReenterLock & synchronized 区别？ 底层实现逻辑？ 公平锁/非公平锁。
+5. 偏向锁，轻量级锁，重量级锁，自旋锁的区别和实现
+6. jdk 8 新特性有哪些
+7. HashMap && ConcurrentHashMap 原理
+8. hash 冲突怎么解决？
+9. mysql 的事务，隔离级别有哪些，怎么解决幻读？
+10. jvm 内存模式，一般配置是多少，怎么调优？怎么查看内存泄露？
+11. 多线程几种方式？callable ？feture？ CompletableFuture
+12. 分布式锁的实现方式有哪几种？zookeeper 和 redis 怎么实现的？ redis的 redlock 是什么方案？
+13. mysql 的索引结构是什么？ 为什么要有b+tree？ b-tree 和 b+tree的区别？ 红黑树的基本定义是什么？
+14. spring cloud 总体解决方案说一下。你们公司产品微服务的过程是什么样的？产品的选择是出于什么样的考虑。
+15. 就你最熟的一个spring cloud的组件展开详细的说明，他是来做什么的？为什么要引入这个模块？不引入的话有什么问题？
+16. 30亿订单数据库解决方案
+17. 高并发/促销活动 api解决方案是什么？怎么保证接口高效稳定？
+18. 为什么离职？
